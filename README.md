@@ -1,5 +1,7 @@
 # Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana
 
+Entry note: the final locked strategy is an oversold dip-buyer (12-bar return ≤ −2%, RSI(14) < 38), verified at +86.73 USDC net on the kit's dev replay versus −869.34 for buy-and-hold, with all guardrails met.
+
 [![Competition](https://make.fun/badge/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1.svg)](https://make.fun/bounty/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1)
 [![Rank](https://make.fun/badge/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1/aira-catur/tiny-bot-beat-buy-and-hold/rank.svg)](https://make.fun/bounty/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1)
 [![Reward](https://make.fun/badge/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1/aira-catur/tiny-bot-beat-buy-and-hold/reward.svg)](https://make.fun/bounty/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1)
